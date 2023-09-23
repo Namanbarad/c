@@ -1,0 +1,83 @@
+1. write a program to  find area of triangle . 
+
+2. write a program to find squre of number.
+
+3. wrire a program to  find area of cylinder .
+
+4. write a program to find volume of qube.
+ -------------------------15/09/2023------------------------------
+
+ 5. write program to find multiplication table of given number .
+
+ 6. wrire a program to find area  of triangle take input from user using scanf .
+
+ 7. wrire a program to find area  of cylinder take input from user using scanf .
+
+ 8. wrire a program to find squre of number. take input from user using scanf .
+------------------------------------16/09/2023-----------------------------
+
+9. write a program to calculet simple intrest .
+
+10. wrire a program to fing electricity bill .
+take a unit and amout and text rate.
+
+
+----------------------------------18/09/2023------------------------------
+
+11. write a program to check number1 small.
+
+12. write a program to find income taxe income :5 lk taxe rate : 5% 
+
+--------------------------------19/09/2023---------------------------------
+
+13. write a program to check given number is posetive nagitive .
+
+14. write a program to findout whether given year is leap year or not ( using if else )
+
+15. write a program to  findout small  area of two  triangle 
+
+-----------------------------------20/09/2023-------------------------------
+
+16. write a program to check number is odd , even or zero .
+
+17. write a program to check number negetive or not ,if negetive to convert int to possitive 
+
+18. Check if a character is a vowel or a consonant. 
+
+19. write a program to check bmi conditions.
+
+condition:  https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg?_=07167
+
+
+20. Check if a triangle is equilateral, isosceles, or scalene. (lenth)  
+
+
+-----------------------------------21/09/2023------------------------------
+
+ 21. Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
+https://i.pinimg.com/564x/43/aa/50/43aa50c918f3bd03abb71b6d4aaf93c7.jpg
+
+
+22.  Write a programe to findout income tax based on given condition take monthly income as input 
+yearly income     tax rate
+<3,00,000         5%  
+
+>=3,00,000
+<5,00,000         10%  
+
+>=5,00,000
+<8,00,000         20%
+
+>=8,00,000        30%  
+
+
+
+
+ 23. Write a C program to calculate final electricity bill based upon below given criteria. take monthly electricity unit from user as input. 
+units           price  per unit 
+<100            1
+>100 & <200     2 
+>200 & <300     3
+>300 & <400     4
+>400            5
+also calculate 5% percentage energy charge on total bill amount & display total amount
