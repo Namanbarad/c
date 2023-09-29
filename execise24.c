@@ -1,0 +1,1 @@
+/* write  program to find area of three triangle and check smaller .*/
